@@ -1,0 +1,68 @@
+.navbar-default{
+	margin-bottom:0px;
+	border-bottom-width:0px;
+}
+.navbar {
+	border:0px solid transparent;
+}
+.section {
+	background-image:url(Images/download.jpg);
+	background-size:100% auto;
+	background-repeat:no-repeat;
+}
+.container1 p{
+	text-align:justify;
+	font-family:'Playfair Display', serif;
+}
+.btn-default{
+	border-color:#fb2274;
+}
+.form-control{
+	backround-buttom:18px;
+	padding-bottom:38px;
+	
+}
+.container2 {
+	background-color:#f6f6f6;
+	padding-bottom:38px;
+}
+.container2 p{
+	font-family:'Playfair Display',serif;
+}
+.image1{
+	background-color:white;
+	margin-right:71px;
+	padding-bottom:38px;
+	margin-bottom:77px;
+}
+.image1 p{
+	padding-top:25px;
+	font-family:'Playfair Display',serif;
+	font-weight:bold;
+}
+.image2{
+	background-color:white;
+	margin-right:71px;
+	padding-bottom:38px;
+}
+.image2 p{
+	padding-top:25px;
+	font-family:'Playfair Display',serif;
+	font-weight:bold;
+}
+.image3{
+	background-color:white;
+	margin-right:71px;
+	padding-bottom:38px;
+}
+.image3 p{
+	padding-top:25px;
+	font-family: 'Playfair Display',serif;
+	font-weight:bold;
+}
+#navbar ul li a {
+	color:white;
+}
+.navbar-brand{
+	color:white;
+}
